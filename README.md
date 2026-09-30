@@ -96,4 +96,4 @@ Each test pairs a query with an expected result; the runner compares it with the
 ## 🙏 Acknowledgments & License
 
 Based on the IBM Skills Network lab *"Build an AI Math Assistant with LangChain Tool
-Calling"*, extended with my own notes and documentation. Released under the MIT License.
+Calling"*, extended with my own notes and documentation. Released under the Apache 2.0 License.
