@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![LangChain](https://img.shields.io/badge/LangChain-1.x-green) ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Runtime-purple)
 ![LLM](https://img.shields.io/badge/LLM-IBM%20Granite%20%7C%20OpenAI-orange)
+
 An AI Agent that understands natural-language math questions, picks the right tool, and returns exact answers instead of guessing arithmetic like a plain LLM
+
 ## 📌 Overview
 
 LLMs are unreliable at precise calculation. This project gives an LLM a **toolkit of
